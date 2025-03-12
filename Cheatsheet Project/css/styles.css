@@ -1,0 +1,47 @@
+
+/*Main body styling*/
+body {
+    background-color: palevioletred;
+    font-family:  monospace;
+    color: bisque;
+}
+/*Title styling*/
+h1 {
+    font-size: 32px;
+    text-align: center;
+    margin: 15px auto;
+    padding: 20px 25px;
+    border-radius: 15px;
+    border: solid 3px bisque;
+    display: block;
+    width: fit-content;
+}
+/*Subtitles styling*/
+h2 {
+    font-size: 25px;
+    font-family: lucida console;
+    margin: 20px 0 20px 0;
+    padding: 5px;
+    background-color: blue;
+    display: inline-block;
+    opacity: 75%;
+}
+
+.definition,.display,.position
+ {
+    font-size: 20px;
+    font-weight: bold;
+    color: darkslateblue;
+    margin-left: 25px;
+}
+.tags {
+    color: darkblue;
+    
+}
+h3 {
+    font-size: 15px;
+    color: rgb(82, 15, 51);
+    background-color: azure ;
+    display: inline-block;
+    opacity: 50%;
+}
